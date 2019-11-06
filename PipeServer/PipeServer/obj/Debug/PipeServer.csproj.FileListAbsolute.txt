@@ -1,0 +1,29 @@
+C:\Users\student\source\repos\PipeServer\PipeServer\bin\Debug\PipeServer.exe.config
+C:\Users\student\source\repos\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+C:\Users\student\source\repos\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\student\source\repos\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+C:\Users\student\source\repos\PipeServer\PipeServer\obj\Debug\PipeServer.Form1.resources
+C:\Users\student\source\repos\PipeServer\PipeServer\obj\Debug\PipeServer.Properties.Resources.resources
+C:\Users\student\source\repos\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+C:\Users\student\source\repos\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\bin\Debug\PipeServer.exe.config
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.Form1.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.Properties.Resources.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\bin\Debug\PipeServer.exe.config
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.Form1.resources
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.Properties.Resources.resources
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+C:\Users\user\Desktop\AT2.4\PipeServer\PipeServer\obj\Debug\PipeServer.pdb

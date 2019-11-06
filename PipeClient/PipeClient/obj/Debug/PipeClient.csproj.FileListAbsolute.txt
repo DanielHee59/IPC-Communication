@@ -1,0 +1,29 @@
+C:\Users\student\source\repos\PipeClient\PipeClient\bin\Debug\PipeClient.exe.config
+C:\Users\student\source\repos\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+C:\Users\student\source\repos\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+C:\Users\student\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.csprojAssemblyReference.cache
+C:\Users\student\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.Form1.resources
+C:\Users\student\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.Properties.Resources.resources
+C:\Users\student\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\student\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\bin\Debug\PipeClient.exe.config
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.csprojAssemblyReference.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.Form1.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.Properties.Resources.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.GenerateResource.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.CoreCompileInputs.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Assessment 2\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\bin\Debug\PipeClient.exe.config
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.Form1.resources
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.Properties.Resources.resources
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\user\Desktop\AT2.4\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
